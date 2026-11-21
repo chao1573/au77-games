@@ -7,6 +7,7 @@
 - `index.html`：品牌资料首页，列出不同游戏的独立入口。
 - `games/xiangqin.html`：《相亲练习手册》游戏资料与商店入口。
 - `privacy/xiangqin.html`：《相亲练习手册》独立隐私政策。
+- `privacy/mafialove.html`：Mafia Love 独立隐私政策（简体中文 / English）。
 - `PUBLISH_CHECKLIST.md`：提交 TapTap 前的核对事项。
 
 ## 本次已经确认的《相亲练习手册》方案
